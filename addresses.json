@@ -1,0 +1,39 @@
+{"course_id":3243,
+        "course_name":"FSST",
+        "participants":
+        [
+            {"first_name":"Peter",
+            "last_name":"Pan",
+            "Street":"Neverland 1",
+            "PLZ":"12345",
+            "ORT":"Liverpool"
+            },
+
+            {"first_name":"Petra",
+            "last_name":"Panna",
+            "Street":"Neverland 2",
+            "PLZ":"12346",
+            "ORT":"London"
+        
+            },
+
+            {"first_name":"Sandro",
+            "last_name":"Nussi",
+            "Street":"Haimingeralm 3",
+            "PLZ":"6100",
+            "ORT":"Seefeld"
+            },
+
+            {"first_name":"Lorenz",
+             "last_name":"Glas",
+             "Street":"Otztalstrasse 4",
+             "PLZ":"6450",
+             "ORT":"Sölden"
+            }
+
+
+        ]
+
+
+
+}
